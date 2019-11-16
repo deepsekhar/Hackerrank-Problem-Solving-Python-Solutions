@@ -1,2 +1,2 @@
 # Hackerrank-Problem-Solving-Python-Solutions
-Hackerrank Problem solving solutions in Python
+This repo consists the solution of hackerrank problem solving solutions in python
